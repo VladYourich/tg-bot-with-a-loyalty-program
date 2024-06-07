@@ -1,2 +1,2 @@
-# tg-bot-with-a-loyalty-program
+# tg-bot-with-loyalty-program
 Telegram bot для клиентов небольших продуктовых компаний с ассортиментом товаров и услуг и программой лояльности
